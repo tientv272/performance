@@ -1,0 +1,24 @@
+[ {
+   "OrganizationNumber": "85632333",
+   "Name": "S-School-${uuid}",
+   "LanguageId": null,
+   "CountryCode": 47,
+   "Description": "Schools of Persie",
+   "Identity":    {
+      "Archetype": "School",
+      "ExtID": "school-${uuid}",
+      "OwnerId": 9,
+      "CustomerId": 55
+   },
+   "EntityStatus":    {
+      "ExternallyMastered": false,
+      "LastExternallySynchronized": "",
+      "EntityVersion": "",
+      "LastUpdated": "2010-09-27T17:07:00",
+      "LastUpdatedBy": 0,
+	 "StatusID": "Active",
+      "StatusReasonId": "Unknown",
+      "Deleted": false
+   }
+}
+]

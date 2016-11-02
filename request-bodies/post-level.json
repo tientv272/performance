@@ -1,0 +1,19 @@
+{
+   "Role": "",
+   "Period": {},
+   "Identity":    {
+   	"Id": "${member-id}",
+      "ExtId": "",
+      "Archetype": "${archetype}",
+      "OwnerId": 9,
+      "CustomerId": 51
+   },
+   "EntityStatus":    {
+      "ExternallyMastered": false,
+      "LastUpdated": "",
+      "LastUpdatedBy": 0,
+      "StatusId": "Active",
+      "StatusReasonId": "Unknown",
+      "Deleted": false
+   }
+}

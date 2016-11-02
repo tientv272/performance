@@ -1,0 +1,25 @@
+[{
+      "Name": "class-1A-${uuid}",
+      "Description": "Class of Persie",
+      "LanguageId": 3,
+      "CountryCode": 5,
+      "Identity":       {
+         "Id": 94074,
+         "ExtId": "class-active-${uuid}",
+         "Archetype": "Class",
+         "OwnerId": 9,
+         "CustomerId": 52
+      },
+      "DynamicAttributes": [],
+      "EntityStatus":       {
+         "ExternallyMastered": false,
+         "LastExternallySynchronized": "",
+         "EntityVersion": "AAAAAACcYbE=",
+         "LastUpdated": "2016-08-24T07:23:26.475023Z",
+         "LastUpdatedBy": 17225,
+         "StatusId": "Active",
+         "StatusReasonId": "Unknown",
+         "Deleted": false
+      }
+   }
+]   

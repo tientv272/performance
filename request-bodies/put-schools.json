@@ -1,0 +1,14 @@
+{
+  "schoolName": "TESTUPDATED1",
+  "description": "abc",
+  "orgNo": "OrgNo Max ",
+  "status": 0,
+  "locked": 0,
+  "ownerId": 9,
+  "parentDepartmentId": 0,
+  "languageId": 1,
+  "countryCode": 0,
+  "customerId": 49,
+  "schoolId": 89629,
+  "schoolExtId": "abc"
+}

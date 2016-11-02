@@ -1,0 +1,29 @@
+[
+{
+      "ParentDepartmentId": 100674,
+      "FirstName": "learner persie-${uuid}",
+      "LastName": "van-${uuid}",
+      "MobileCountryCode": 47,
+      "Gender": 0,
+      "DateOfBirth": "2016-08-07T00:00:00Z",
+      "Tag": "4sdfs",
+      "Identity":       {
+         "ExtId": "learner-${uuid}",
+         "OwnerId": 9,
+         "CustomerId": 52,
+         "Archetype": "Learner",
+         "Id": 1499100
+      },
+      "DynamicAttributes": [],
+      "EntityStatus":       {
+         "ExternallyMastered": false,
+         "LastExternallySynchronized": "2001-01-01T00:00:00Z",
+         "EntityVersion": "AAAAAAEExkw=",
+         "LastUpdated": "2016-10-14T07:06:48.7401878Z",
+         "LastUpdatedBy": 883174,
+         "StatusId": "Active",
+         "StatusReasonId": "Active_SynchronizedFromSource",
+         "Deleted": false
+      }
+   }
+]

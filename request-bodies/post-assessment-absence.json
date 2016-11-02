@@ -1,0 +1,37 @@
+{
+	"UserIdentity" : {
+		"Archetype" : "Learner",
+		"Id" : "${userid}"
+	},
+	"ParentDepartmentId" : 69024,
+	"SurveyReferenceId" : 2929,
+	"RoleId" : 43,
+	"AssessmentStatusId" : 0,
+
+	"AssessmentEntries": [
+    {
+      "Uri": "/absence/T1/valid/aggregate/hours",
+      "Value": "0.75"      
+    },
+    {
+      "Uri": "/absence/T2/valid/aggregate/hours",
+      "Value": "0.25"      
+    }
+	],
+
+	"Identity" : {
+		"OwnerId" : 9,
+		"CustomerId" : 488,
+		"Archetype" : "assessment",
+		"Id" : 5649601
+	},
+	"EntityStatus" : {
+		"ExternallyMastered" : false,
+		"EntityVersion" : "AAAAABCfXwI=",
+		"LastUpdated" : "",
+		"LastUpdatedBy" : 576293,
+		"StatusId" : "Active",
+		"StatusReasonId" : "Unknown",
+		"Deleted" : false
+	}
+}

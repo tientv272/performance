@@ -1,0 +1,31 @@
+[
+    {
+      "EmployerDepartmentId": "${schoolowner-id}",
+      "FirstName": "employee persie-${uuid}",
+      "LastName": "van-${uuid}",
+      "MobileCountryCode": 47,
+      "MobileNumber": "645456779",
+      "EmailAddress": "release-vokal-no9@conexus.no",
+      "Gender": 0,
+      "DateOfBirth": "2010-11-08T00:00:00Z",
+      "Tag": "2323, 45erer",
+      "Identity":       {
+         "ExtId": "s-employee-${uuid}",
+         "OwnerId": 9,
+         "CustomerId": 52,
+         "Archetype": "Employee",
+         "Id": 1499096
+      },
+      "DynamicAttributes": [],
+      "EntityStatus":       {
+         "ExternallyMastered": true,
+         "LastExternallySynchronized": "2010-11-08T14:57:00Z",
+         "EntityVersion": "AAAAAAEExSo=",
+         "LastUpdated": "2016-10-14T06:43:35.6829409Z",
+         "LastUpdatedBy": 883174,
+         "StatusId": "Active",
+         "StatusReasonId": "Unknown",
+         "Deleted": false
+      }
+   }
+]

@@ -1,0 +1,28 @@
+[
+{
+         "OrganizationNumber": "94425644",
+         "Name": "S-Kommune-${uuid}",
+         "Description": "Kommune of Persie",
+         "Tag": "5642",
+         "LanguageId": 1,
+         "CountryCode": 47,
+         "DepartmentType":"county",
+         "ParentDepartmentId":  18916,
+         "Identity":          {
+            "ExtId": "schoolowner-${uuid}",
+            "Archetype": "Schoolowner",
+            "OwnerId": 9,
+            "Customerid": 52
+         },
+         "EntityStatus":          {
+            "ExternallyMastered": false,
+            "LastExternallySynchronized": "",
+            "EntityVersion": "",
+            "LastUpdated": "2016-06-16T07:20:18.0431209+00:00",
+            "LastUpdatedBy": 17225,
+            "StatusId": "Active",
+            "StatusReasonId": "Unknown",
+            "Deleted": false
+         }
+ }
+]

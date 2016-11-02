@@ -1,0 +1,24 @@
+{
+  "Name": "teaching-group-persie-${uuid}",
+  "Description": "Teaching Group of Persie",
+  "SubjectCode": "123",
+     "Period":    {
+      "Period": "2009/2010",
+   },
+  "Identity": {
+    "ExtId": "teachinggroup-${uuid}",
+    "Archetype": "teachinggroup",
+    "OwnerID": 9,
+       "CustomerId": 52
+  },
+  "EntityStatus": {
+    "ExternallyMastered": true,
+    "LastExternallySynchronized": "",
+    "EntityVersion": "AAAAAAB+9Gk=",
+    "LastUpdated": "2011-08-18T12:44:00",
+    "LastUpdatedBy": 883174,
+	"StatusID": "Active",
+    "StatusReasonId": "Unknown",
+    "Deleted": false
+  }
+}
